@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Users Management</string>
+
+    <string name="action_search">Search</string>
+
+    <string name="users_list_fragment_label">Users</string>
+    <string name="user_info">%d years from %s</string>
+    <string name="floating_action_button">Floating action button</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="nav_header_title">User management </string>
+    <string name="nav_header_subtitle">gmail@chucknorris.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_users">Random users</string>
+</resources>
